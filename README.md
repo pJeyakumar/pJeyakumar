@@ -1,4 +1,4 @@
-> You don't drink coffee? Surely there's no way you can be a developer! (I'm a tea enjoyer) 🍵 > ☕ 
+> You don't drink coffee? Surely there's no way you're a developer! (I'm a tea enjoyer) 🍵 > ☕ 
 ### who am i? 🧐
 My name is Piranavan Jeyakumar (good luck pronouncing that), Im quite an extroverted person (but still somehow very introverted on social media), I love to play sports with friends (volleyball, badminton, soccer, tennis, & basketball), and I'm also big on playing games & watching tv shows/anime. I'm also quite decent at looking things in a very logical lens & breaking down issues into manageable and solvable pieces (which is why I love walking down the path of Computer Scientists).
 - Favourite Sport: Volleyball 🏐 (even though Im awful at it)
