@@ -8,8 +8,8 @@ My name is Piranavan Jeyakumar (good luck pronouncing that), Im quite an extrove
 ---
 ### current status? 🤖
 
-- ##### I am currently a student enrolled at Western University, I am doing an Honours Specialization in Computer Science with a Minor in Software Engineering (very artsy as you can tell!)
-  - ###### I have just completed my 3rd year of my Bachelor's degree, and am currently undergoing a 16 month internship, through [UWO's Science Internship program](https://www.uwo.ca/sci/undergraduate/careers_and_internships/science_internship_program/index.html)! After my internship, I will return to my studies to finish off my 4th year and then I'm all set to truly dive into the workforce!
+- #### I am currently a student enrolled at Western University, I am doing an Honours Specialization in Computer Science with a Minor in Software Engineering (very artsy as you can tell!)
+  - ##### I have just completed my 3rd year of my Bachelor's degree, and am currently undergoing a 16 month internship, through [UWO's Science Internship program](https://www.uwo.ca/sci/undergraduate/careers_and_internships/science_internship_program/index.html)! After my internship, I will return to my studies to finish off my 4th year and then I'm all set to truly dive into the workforce!
 - I am currently a Jr. Full Stack Developer at [Harled Inc](https://harled.ca/), working on an application to digitize processes for the RCAF! You can read more about my role and place at the company [here](https://harled.ca/team/piranavan).
 ---
 ### how to get in contact with me? 📩
