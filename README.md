@@ -4,7 +4,7 @@ My name is Piranavan Jeyakumar (good luck pronouncing that), Im quite an extrove
 - Favourite Sport: Volleyball 🏐 (even though Im awful at it)
 - Favourite Games: [Metal Gear Solid 3: Snake Eater](https://metalgear.fandom.com/wiki/Metal_Gear_Solid_3:_Snake_Eater), [The Great Ace Attorney](https://www.ace-attorney.com/great1-2/en-asia/), [Hollow Knight](https://hollowknight.fandom.com/wiki/Hollow_Knight_Wiki), & [Hades](https://hades.fandom.com/wiki/Hades_(game)) 🎮
 - Favourite TV Show: Avatar the Last Airbender (no question about it) 💧 🪨 🔥 💨
-- Favourite Animes: Mushishi, Cowboy Bebop, March Comes Like a Lion, Mob Psycho 100, Megalo Box 2: Nomad, Vivy Fluorite Eyes Song, Violet Evergarden, Full Metal Alchemist: Brotherhood, & the list just keeps going...
+- Favourite Animes: Mushishi, Cowboy Bebop, March Comes In Like a Lion, Mob Psycho 100, Megalo Box 2: Nomad, Vivy Fluorite Eyes Song, Violet Evergarden, Full Metal Alchemist: Brotherhood, & the list just keeps going...
 ---
 ### current status? 🤖
 
