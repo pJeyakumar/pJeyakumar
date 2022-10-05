@@ -12,6 +12,12 @@ My name is Piranavan Jeyakumar (good luck pronouncing that), Im quite an extrove
   - I have just completed my 3rd year of my Bachelor's degree, and am currently undergoing a 16 month internship, through [UWO's Science Internship program](https://www.uwo.ca/sci/undergraduate/careers_and_internships/science_internship_program/index.html)! After my internship, I will return to my studies to finish off my 4th year and then I'm all set to truly dive into the workforce!
 - I am currently a Jr. Full Stack Developer at [Harled Inc](https://harled.ca/), working on an application to digitize processes for the RCAF! You can read more about my role at the company [here](https://harled.ca/team/piranavan).
 ---
+### a **Piranavan** guide 📙
+- I'm most effective with a gentle nudge in the right direction at the beginning. Show me the right way and I'll follow through (with reason) to a job well-done.
+- I thrive off of criticism and constructive feedback. I know there's a lot I need to learn, there's always room for improvement. I personally prefer concise and straight-forward feedback, not a huge fan of sugar-coating. I like to clearly know what is going well and what needs to be worked on.
+- Active communication is very valuable to me, whether it be through Slack, Google Meets, or phone calls. I prefer these methods of communication because they're dynamic and it's easier to get a proper response compared to back and forth emails. 
+- Occasional meetings are a must for me, in-person or remote, I enjoy having conversations with others, and I find that meetings work better than messaging.
+---
 ### how to contact me? 📩
 - [linkedin](linkedin.com/in/pjeya)
 - email: piranavanjeyakumar@gmail.com
