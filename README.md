@@ -8,9 +8,9 @@ My name is Piranavan Jeyakumar, I'm a very outgoing person and most would say I 
 
 ---
 ### current status? 🤖
-I am currently a student enrolled at Western University, in my 4th and final year of doing an Honours Specialization in Computer Science with a Minor in Software Engineering (very artsy as you can tell!)
+I am currently working as a Full-Stack Software Developer for the Royal Canadian Airforce, you can read details on my role by checking out my [Linkedin](https://www.linkedin.com/in/pjeya/).
 
-I have just completed a 16 month internship with [Harled Inc](https://harled.ca/) delivering impactful and modern software for the RCAF! You can read more about my role at Harled by checking out my [Linkedin](https://www.linkedin.com/in/pjeya/)!
+I have recently graduated from Western University with a degree in Honours Specialization in Computer Science with a Minor in Software Engineering (very artsy as you can tell!)
 
 ---
 ### a **Piranavan** guide 📙
